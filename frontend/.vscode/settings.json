@@ -1,0 +1,6 @@
+{
+  "git.ignoreLimitWarning": true,
+  "breadcrumbs.enabled": true,
+  "editor.hover.enabled": true,
+  "editor.formatOnSave": true
+}
